@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">AndroidLab1</string>
+    <string name="app_name">AndroidLab 1</string>
     <string name="text_example">Text Example</string>
     <string name="button_text">Button Text</string>
-    <string name="avatar_image">Avatar Image</string>
+    <string name="rick_astley">Never Gonna Give You Up</string>
+    <string name="switchText">Switch</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="checkbox">CheckBox</string>
 </resources>
