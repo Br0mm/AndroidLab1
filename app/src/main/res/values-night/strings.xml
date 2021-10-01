@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_example">Text Example</string>
+    <string name="button_text">Button Text</string>
+    <string name="avatar_image">Avatar Image</string>
+</resources>
